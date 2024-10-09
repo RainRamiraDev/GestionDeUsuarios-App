@@ -3,12 +3,23 @@
 Presento una solución de API robusta y escalable para la gestión de usuarios, desarrollada con tecnologías modernas y de alto rendimiento. Esta API permite realizar operaciones CRUD completas sobre usuarios con los campos ID, nombre, email y password.
 
 ### **Características Clave:**
-- **Node.js & TypeScript:** Backend eficiente y fuertemente tipado para mayor rendimiento y mantenimiento.
-- **GraphQL & Apollo Server:** Consultas flexibles y poderosas, optimizadas para el rendimiento de tus aplicaciones frontend.
-- **MongoDB:** Base de datos NoSQL, ideal para aplicaciones que requieren flexibilidad y escalabilidad.
-- **Dockerizado:** Entorno de desarrollo completamente contenedorizado, garantizando una fácil implementación y administración.
+- Backend eficiente y fuertemente tipado para mayor rendimiento y mantenimiento.
+- Consultas flexibles y poderosas, optimizadas para el rendimiento de tus aplicaciones frontend.
+- Base de datos NoSQL, ideal para aplicaciones que requieren flexibilidad y escalabilidad.
+- Entorno de desarrollo completamente contenedorizado, garantizando una fácil implementación y administración.
 
 Esta solución está diseñada para ser integrada fácilmente en proyectos modernos y ofrece una base sólida para el manejo de usuarios con capacidades de expansión y personalización.
+
+### **Herramientas utilizadas**
+
+![Static Badge](https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript)
+![Static Badge](https://img.shields.io/badge/GraphQL-333333?style=for-the-badge&logo=graphql)
+![Static Badge](https://img.shields.io/badge/Apollo_Server-333333?style=for-the-badge&logo=apollo)
+![Static Badge](https://img.shields.io/badge/MongoDB-333333?style=for-the-badge&logo=mongodb)
+![Static Badge](https://img.shields.io/badge/Node.js-333333?style=for-the-badge&logo=node.js)
+
+
+
 
 
 
