@@ -1,12 +1,15 @@
-# Consigna
+## **API para Gestión de Usuarios - Node.js, TypeScript, GraphQL, Apollo Server y MongoDB**
 
-Te vamos a solicitar una prueba simple del stack tecnológico que se está utilizando en la
-empresa, sabemos actualmente que no contas los conocimientos en todas estas
-tecnologías pero es el puesto que necesitamos cubrir.
+Presento una solución de API robusta y escalable para la gestión de usuarios, desarrollada con tecnologías modernas y de alto rendimiento. Esta API permite realizar operaciones CRUD completas sobre usuarios con los campos ID, nombre, email y password.
 
-**Crear una API en Node Js utilizando Typescript, GraphQl, Apolo server, y conectarse a una
-base de datos en Mongo (si todo esto puede estar dockerisado, suma). En base a estas
-tecnologías realizar un crud de usuario con campos ID, nombre, email, password.**
+### **Características Clave:**
+- **Node.js & TypeScript:** Backend eficiente y fuertemente tipado para mayor rendimiento y mantenimiento.
+- **GraphQL & Apollo Server:** Consultas flexibles y poderosas, optimizadas para el rendimiento de tus aplicaciones frontend.
+- **MongoDB:** Base de datos NoSQL, ideal para aplicaciones que requieren flexibilidad y escalabilidad.
+- **Dockerizado:** Entorno de desarrollo completamente contenedorizado, garantizando una fácil implementación y administración.
+
+Esta solución está diseñada para ser integrada fácilmente en proyectos modernos y ofrece una base sólida para el manejo de usuarios con capacidades de expansión y personalización.
+
 
 
 ## Configuración para ejecucion desde IDE
